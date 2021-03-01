@@ -13,7 +13,7 @@
 * PID стола
 
 ## РЕЛИЗЫ
-В [релизах](https://github.com/Technarrus/Marlin_LongerLK4/releases/tag/Marlin) архив прошивки с включенным Mesh Bed Leveling если вдруг у ого-то кривой стол 
+В [релизах](https://github.com/Technarrus/Marlin_LongerLK4/releases/tag/Marlin) архив прошивки с включенным Mesh Bed Leveling если вдруг у кого-то кривой стол, а облегчить работу хочется))
 
 ## КАК УСТАНОВИТЬ
 * Скопировать progect.pin на SD карту, вставить в слот, включить принтер. Процесс займет около 10 секунд. 
