@@ -23,9 +23,9 @@
 * Рекомендуется откалибровать PID экструдера, поток, шаги на миллиметр, если используете какие-либо не стандартные шкивы и винт оси Z.
 
 ### ВИДЕО
-<a href="https://youtu.be/hBkV4Tjz-6s">Обзор Longer LK4</a>
-<a href="https://youtu.be/4ykhpaEbTpE">О доработках</a>
-<a href="https://www.youtube.com/channel/UCzI016x7MItBtQCJiSWI7yA">Канал YouTube</a>
+* <a href="https://youtu.be/hBkV4Tjz-6s">Обзор Longer LK4</a>
+* <a href="https://youtu.be/4ykhpaEbTpE">О доработках</a>
+* <a href="https://www.youtube.com/channel/UCzI016x7MItBtQCJiSWI7yA">Канал YouTube</a>
 
 ### Связь
 Вопросы, обсуждения, предложения через следующие сообщества:
